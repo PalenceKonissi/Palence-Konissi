@@ -1,85 +1,163 @@
-<h1>Hi, I'm Palence Konissi! <br/>
-<a href="https://github.com/yourgithubusername">Cyber Security Professional</a>, 
-<a href="https://www.linkedin.com/in/palencek/">Cloud Engineer</a>, 
-<a href="https://www.linkedin.com/in/palencek/">Cloud Security Engineer</a>
-</h1>
+<h1 align="center">Hi, I'm Palence Konissi 👋</h1>
 
-<h2>🔐 Cyber Security & Cloud Engineering Projects (In-progress):</h2>
+<h3 align="center">
+Cyber Security | Cloud Engineering | Cloud Security
+</h3>
 
-- <b>Cloud Security Projects</b>
-  - [AWS IAM Security Hardening Lab](https://github.com/yourgithubusername/project-name)
-  - [Secure S3 Bucket Configuration & Monitoring](https://github.com/yourgithubusername/project-name)
-  - [CloudTrail + GuardDuty Threat Detection Setup](https://github.com/yourgithubusername/project-name)
+<p align="center">
+<a href="https://www.linkedin.com/in/palencek/">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
-- <b>Infrastructure as Code (Terraform)</b>
-  - [AWS Infrastructure Deployment with Terraform](https://github.com/yourgithubusername/project-name)
-  - [Secure VPC + EC2 + IAM Architecture](https://github.com/yourgithubusername/project-name)
+---
 
-- <b>Docker & DevSecOps</b>
-  - [Container Security Scanning Pipeline](https://github.com/yourgithubusername/project-name)
-  - [CI/CD Security Checks with GitHub Actions](https://github.com/yourgithubusername/project-name)
+## 👨‍💻 About Me
 
-- <b>Linux & Security Automation</b>
-  - [Bash Scripting for Security Monitoring](https://github.com/yourgithubusername/project-name)
-  - [System Log Monitoring & Alert Automation](https://github.com/yourgithubusername/project-name)
+I currently work at **TELUS Health** as a **Senior Technical Support Specialist**, supporting critical systems and resolving complex technical issues.
 
-- <b>Python Security & Automation</b>
-  - [Python Script for Security Log Analysis](https://github.com/yourgithubusername/project-name)
-  - [Automated Cloud Compliance Checker](https://github.com/yourgithubusername/project-name)
-  - [Vulnerability Scanner using Python](https://github.com/yourgithubusername/project-name)
+Alongside my current role, I am building hands-on experience in:
 
-- <b>Monitoring & Incident Detection</b>
-  - [Prometheus + Grafana Security Monitoring](https://github.com/yourgithubusername/project-name)
-  - [SIEM-Inspired Cloud Monitoring Dashboard](https://github.com/yourgithubusername/project-name)
+- Cloud Security Engineering at **Amdari** 
+- AWS Cloud Infrastructure at **Cromas Campus**
+- Cyber Security Operations at **10@lytics** 
+- DevSecOps & Security Automation  
 
-<h2>📘 Certifications</h2>
+I am passionate about secure cloud architecture, threat detection, infrastructure protection, and security automation through real-world projects.
 
-- AWS Certified Solutions Architect – Associate (in-progress) ✅
-- AWS Certified Security – Specialty (Planned)
-- AWS Certified DevOps Engineer (Planned)
-- Microsoft Azure Fundamentals (Planned)
-- Google Cloud Platform Fundamentals (Planned)
-- Cyber Security & Cloud Engineering Training (in-progress)
+My goal is to transition into a Cloud Security Engineer or Cyber Security Analyst role focused on building scalable and secure cloud environments.
 
-<h2>🚀 Professional Focus</h2>
+---
 
-- Cyber Security
-- Cloud Engineering
-- Cloud Security Engineering
-- DevSecOps & Infrastructure Security
-- Secure AWS Architecture Design
-- Threat Detection & Security Monitoring
+## 🎯 Objective
 
-<h2>🎯 Career Objective</h2>
+My journey in technology has led me to develop a strong passion for cybersecurity and cloud security.
 
-Open to opportunities as:
+I am currently focused on developing practical projects in AWS, DevSecOps, Python automation, SIEM monitoring, and infrastructure security to strengthen my cloud security engineering skills.
 
-- Cloud Security Engineer
-- Cyber Security Analyst
-- Cloud Engineer
-- DevSecOps Engineer
-- Security Operations (SOC)
-- AWS Cloud Security Specialist
+---
 
-Starting November 2026
+## 🛠 Skills
 
-<h2>🤳 Connect with me:</h2>
+| Skill | Associated Project |
+|---|---|
+| SIEM Implementation & Log Analysis | Wazuh SIEM Lab |
+| Network Traffic Monitoring & Attack Detection | Wireshark Network Analysis |
+| Security Monitoring & Threat Detection | Cloud Threat Detection Lab |
+| AWS IAM Security Hardening | Cloud Security Projects |
+| Terraform Infrastructure Security | AWS Infrastructure Deployment |
+| Python Security Automation | Security Automation Scripts |
+| Docker & DevSecOps Security | Container Security Pipeline |
+| CI/CD Security | GitHub Actions Security Checks |
 
-[<img align="left" alt="LinkedIn" width="22px" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-<br/><br/>
+## ⚙️ Tools & Technologies
 
-[linkedin]: https://www.linkedin.com/in/palencek/
+### ☁️ Cloud Platforms
 
-<!--
-✨ GitHub Profile README Ideas
+<div>
+<img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
 
-Next improvements:
-- Add certification badges
-- Add GitHub contribution stats
-- Add cloud architecture diagrams
-- Add real deployed projects
-- Add security lab screenshots
-- Add portfolio website
--->
+### 🔐 Security Tools
+
+<div>
+<img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=suricata&logoColor=white" />
+</div>
+
+### 🐳 DevOps & Infrastructure
+
+<div>
+<img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+### 💻 Programming
+
+<div>
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/-YAML-CB171E?&style=for-the-badge&logo=yaml&logoColor=white" />
+</div>
+
+---
+
+## 📘 Certifications
+
+<div>
+
+<img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-In_Progress-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-AWS_Security_Specialty-Planned-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-AWS_DevOps_Engineer-Planned-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Azure_Fundamentals-Planned-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Google_Cloud_Fundamentals-Planned-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+</div>
+
+---
+
+## 🎓 Education
+
+- Bachelor of Technology in Chemical Engineering  
+- Brevet de Technicien Supérieur (BTS) in Industrial Computing  
+
+My educational background helped me develop strong analytical, technical, and problem-solving skills that I now apply in Cloud Engineering, Cyber Security, and Infrastructure Automation.
+
+---
+
+## 🔐 Featured Projects
+
+### ☁️ Cloud Security Projects
+
+- Secure Web Hosting on AWS (S3, CloudFront & WAF)
+- Identity & Access Security with Cognito & API Gateway
+- Cloud Threat Detection & Security Audit
+- Secure File Sharing & Malware Protection
+- Secrets Management & Encryption for Applications
+
+### 🔐 Cyber Security Projects
+
+- Wireshark Network Analysis Lab
+- pfSense ↔ Kali ↔ Ubuntu Security Home Lab
+- Wazuh SIEM & File Integrity Monitoring
+- SOC Incident Response & Alert Triage Lab
+- Vulnerability Assessment & Hardening Lab
+
+### ☁️ AWS Cloud Engineering Projects
+
+- On-Premise Application Migration to AWS
+- Blue-Green & Rolling Infrastructure Deployments
+- Multi-VPC Networking & PrivateLink Architecture
+- Event-Driven Order Processing System
+- Multi-Region Failover with AWS Global Accelerator
+
+### ⚙️ DevSecOps & Automation Projects
+
+- AWS Infrastructure Deployment with Terraform
+- Secure VPC + EC2 + IAM Architecture
+- Container Security Scanning Pipeline
+- CI/CD Security Checks with GitHub Actions
+- Python Security Automation & Monitoring Dashboard
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/palencek/">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+⭐ Always learning. Always building. Always securing.
