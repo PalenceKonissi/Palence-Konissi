@@ -116,7 +116,7 @@ My educational background helped me develop strong analytical, technical, and pr
 
 ## 🔐 Featured Projects
 
-### ☁️ Cloud Security Projects
+### ☁️ [Cloud Security Projects](https://github.com/PalenceKonissi/Cloud-Security-Projects.git)
 
 - Secure Web Hosting on AWS (S3, CloudFront & WAF)
 - Identity & Access Security with Cognito & API Gateway
@@ -124,7 +124,7 @@ My educational background helped me develop strong analytical, technical, and pr
 - Secure File Sharing & Malware Protection
 - Secrets Management & Encryption for Applications
 
-### 🔐 Cyber Security Projects
+### 🔐 [Cyber Security Projects](https://github.com/PalenceKonissi/Cyber-Security-Projects.git)
 
 - Wireshark Network Analysis Lab
 - pfSense ↔ Kali ↔ Ubuntu Security Home Lab
@@ -132,7 +132,7 @@ My educational background helped me develop strong analytical, technical, and pr
 - SOC Incident Response & Alert Triage Lab
 - Vulnerability Assessment & Hardening Lab
 
-### ☁️ AWS Cloud Engineering Projects
+### ☁️ [AWS Cloud Engineer Projects](https://github.com/PalenceKonissi/AWS-Cloud-Engineer-Projects.git)
 
 - On-Premise Application Migration to AWS
 - Blue-Green & Rolling Infrastructure Deployments
@@ -140,7 +140,7 @@ My educational background helped me develop strong analytical, technical, and pr
 - Event-Driven Order Processing System
 - Multi-Region Failover with AWS Global Accelerator
 
-### ⚙️ DevSecOps & Automation Projects
+### ⚙️ [DevSecOps & Automation Projects](https://github.com/PalenceKonissi/DevSecOps-Automation-Projects.git)
 
 - AWS Infrastructure Deployment with Terraform
 - Secure VPC + EC2 + IAM Architecture
